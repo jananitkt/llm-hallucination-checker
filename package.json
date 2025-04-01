@@ -1,0 +1,16 @@
+{
+  "name": "hallucination-checker",
+  "version": "1.0.0",
+  "description": "LLM Hallucination Detection and Wikipedia Validation Tool",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.12"
+  }
+}
