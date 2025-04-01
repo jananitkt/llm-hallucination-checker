@@ -36,6 +36,12 @@ This app:
 
 ---
 
+## 📸 Preview
+
+<img src="https://github.com/jananitkt/llm-hallucination-checker/blob/main/preview.png" alt="llm-hallucination-checker UI Screenshot" width="100%" />
+
+---
+
 ## 🚀 How to Run This Project
 
 ### 1. Install Node packages
